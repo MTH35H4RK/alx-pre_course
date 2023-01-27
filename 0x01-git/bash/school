@@ -1,6 +1,6 @@
 #!/bin/bash
-<<<<<<< HEAD
 echo "The School is open!"
+<<<<<<< HEAD
 "The school is open!"
 =======
 <<<<<<< HEAD
@@ -8,4 +8,6 @@ echo "The School is open!"
 =======
 echo "School"
 >>>>>>> parent of 4188d6f... My personal work
+>>>>>>> update_script
+=======
 >>>>>>> update_script
